@@ -10,7 +10,7 @@ namespace Tyuiu.AfoninME.Sprint1.Task7.V27.Lib
             double part2 = (x * y - 12) / (15 + Math.Cos(x));
             double z = part1 - part2;
 
-            return Math.Round(z, 3, MidpointRounding.AwayFromZero);
+            return Math.Round(z, 3, MidpointRounding.Awa1yFromZero);
         }
     }
 }
